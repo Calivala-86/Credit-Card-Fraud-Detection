@@ -35,7 +35,7 @@ dataset structure:
 
  **fraud**= df[df.Class==1] --> Represent fraudelent transactions
 
- **Source**: (Kaggle, https://www.kaggle.com/mlg-ulb/creditcardfraud)
+ **Source**: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ### 2. Dataset Analysis and Pre-process
 I have analyzed the dataset to find any unnecessary information to be removed and standardized dataset, and I opted to use 429 samples for both legit and fraudulent for the machine learning algorithms implementation.
