@@ -57,7 +57,10 @@ get the code from the repository
 
 git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection.git
 
-download the dataset that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
+**download the dataset from below link:**
+
+Download link: (Kaggle, https://www.kaggle.com/mlg-ulb/creditcardfraud)
+**Action**: Unzip the zip file and add **creditcard.csv** under main folder **Credit-Card-Fraud-Detection**
 
 **Install required python packages if previously not installed:**
 
