@@ -53,9 +53,7 @@ Modelling: I have used 3 different ML modelling algorithms to train the dataset:
 **Getting started**
 get the code from the repository
 
-git clone:
-
-Meu github path
+git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection
 
 download the dataset that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
 
