@@ -66,7 +66,8 @@ Install Jupyter notebook and necessary dependencies:
 
 link: https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
 
-References
+## References
+
 https://www.kaggle.com/datasets
 
 Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systemsby Aurélien Géron
