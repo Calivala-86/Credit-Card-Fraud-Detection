@@ -52,6 +52,7 @@ Modelling: I have used 3 different ML modelling algorithms to train the dataset:
  3. Decision Tree Classifier
  
 **Getting started**
+
 get the code from the repository
 
 git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection
