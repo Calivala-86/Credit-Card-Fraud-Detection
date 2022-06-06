@@ -59,13 +59,13 @@ git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection.git
 
 download the dataset that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
 
-install required python packages if previously not installed:
+**Install required python packages if previously not installed:**
 
-download link:
-https://www.python.org/downloads/ 
+download link:https://www.python.org/downloads/ 
+
 Instructions: https://www.tutorialspoint.com/how-to-install-python-in-windows
 
-Install Jupyter notebook and necessary dependencies:
+**Install Jupyter notebook and necessary dependencies:**
 
 link: https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
 
