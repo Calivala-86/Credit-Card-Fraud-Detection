@@ -25,17 +25,17 @@ dataset structure:
 
  **Dataset Size**: 284807 x 31
 
-**Contains data** of 284,807 transactions
+ **Contains data** of 284,807 transactions
 
-**Out of 31 columns**, 28 columns are named V1, V2, … , V28.
+ **Out of 31 columns**, 28 columns are named V1, V2, … , V28.
 
-The other three columns are named Time, Amount and Class.
+ The other three columns are named Time, Amount and Class.
 
-**legit**= df[df.Class==0] --> Represent legit transactions
+ **legit**= df[df.Class==0] --> Represent legit transactions
 
-**fraud**= df[df.Class==1] --> Represent fraudelent transactions
+ **fraud**= df[df.Class==1] --> Represent fraudelent transactions
 
-Source: (Kaggle, https://www.kaggle.com/mlg-ulb/creditcardfraud)
+ **Source**: (Kaggle, https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ### 2. Dataset Analysis and Pre-process
 I have analyzed the dataset to find any unnecessary information to be removed and standardized dataset, and I opted to use 429 samples for both legit and fraudulent for the machine learning algorithms implementation.
