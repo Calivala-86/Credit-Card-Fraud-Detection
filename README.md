@@ -61,7 +61,9 @@ download the dataset that will be used to train a transaction classifier. Unzip 
 
 install required python packages if previously not installed:
 
-download link: https://www.python.org/downloads/ Instructions: https://www.tutorialspoint.com/how-to-install-python-in-windows
+download link:
+https://www.python.org/downloads/ 
+Instructions: https://www.tutorialspoint.com/how-to-install-python-in-windows
 
 Install Jupyter notebook and necessary dependencies:
 
